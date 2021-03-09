@@ -12,7 +12,6 @@ dependencies:
   - r-base=4.0.3
   - r-irkernel=1.1*
   - r-latex2exp=0.4.0
-  - rpy2=3.4.2
   - sphinx=3.5.2
   - pip:
     - -r requirements.txt
