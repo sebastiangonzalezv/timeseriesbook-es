@@ -15,4 +15,4 @@ dependencies:
   - rpy2=3.4.2
   - sphinx=3.5.2
   - pip:
-    - ../book/requirements.txt
+    - book/requirements.txt
