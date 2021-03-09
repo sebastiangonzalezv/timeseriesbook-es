@@ -17,7 +17,7 @@ Hola
 ## Licencia
 
 ### Código
-Todo el código utilizado en el libro o repositorio, esta bajo licencia de código libre bajo la licencia [MIT](LICENSE-CODE), para saber mas de las esta licencia [Open Source Initiative](https://opensource.org/licenses/MIT).
+Todo el código utilizado en el libro o repositorio, esta bajo licencia de código libre bajo la licencia [MIT](https://github.com/sebastiangonzalezv/timeseriesbook-es/blob/main/book/LICENSE-CODE), para saber mas de las esta licencia [Open Source Initiative](https://opensource.org/licenses/MIT).
 
 ### Texto
-Todo el contenido escrito en este libro esta bajo la licencia [CC-BY-NC-ND](LICENSE-TEXT), para saber más de las esta licencia [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode).
+Todo el contenido escrito en este libro esta bajo la licencia [CC-BY-NC-ND](https://github.com/sebastiangonzalezv/timeseriesbook-es/blob/main/book/LICENSE-TEXT), para saber más de las esta licencia [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode).
