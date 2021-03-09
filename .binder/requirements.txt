@@ -1,1 +1,1 @@
--r ../book/requirements.txt
+-r ../book/environment.yml
