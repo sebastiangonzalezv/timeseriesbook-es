@@ -1,0 +1,17 @@
+name: timeseriesbook
+channels:
+  - conda-forge
+  - defaults
+  - eoas_ubc
+dependencies:
+  - python=3.7
+  - nodejs
+  - jupyter=1.0.0
+  - notebook=6.2.0
+  - jupyterlab=3.0.9
+  - r-base=4.0.3
+  - r-irkernel=1.1*
+  - r-latex2exp=0.4.0
+  - sphinx=3.5.2
+  - pip:
+    - -r requirements.txt
