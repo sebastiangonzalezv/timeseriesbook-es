@@ -33,7 +33,7 @@ sphinx:
     language: es
 
 execute:
-  execute_notebooks: force
+  execute_notebooks: cache
 
 
 html:
